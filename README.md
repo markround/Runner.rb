@@ -53,8 +53,8 @@ Runner.rb expects a directory structure like this (using /etc/runner as it's bas
 	    ├── common.yaml
 	    │
 	    ├── environments
-	    │   ├── prd.yaml
-	    │   ├── nft.yaml
+	    │   ├── production.yaml
+	    │   ├── staging.yaml
 	    │   ...
 	    │   ... other environments defined here
 	    │   ...
