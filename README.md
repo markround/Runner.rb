@@ -1,2 +1,2 @@
 # Moved
-Runner.rb is now [https://github.com/markround/tiller](tiller). Follow the link to the new project location. 
+Runner.rb is now [tiller](https://github.com/markround/tiller). Follow the link to the new project location. 
